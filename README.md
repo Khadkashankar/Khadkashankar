@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP/Laravel framework**
 
-- 📫 How to reach me **Khadkashankar470@gmail.com**
+- 📫 How to reach me : **<a href="https://www.linkedin.com/in/khadkashankar/">Linkedln</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
