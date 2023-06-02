@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shankar Khadka</h1>
-<h3 align="center">I am a tech enthusiast, currently learning PHP/Laravel</h3>
+<h3 align="center">I am a tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadkashankar&label=Profile%20views&color=0e75b6&style=flat" alt="khadkashankar" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shankarkhadkag" target="blank"><img src="https://img.shields.io/twitter/follow/shankarkhadkag?logo=twitter&style=for-the-badge" alt="shankarkhadkag" /></a> </p>
 
-- 🌱 I’m currently learning **PHP/Laravel framework**
+- 🌱 I’m currently learning **Web designing and web development**
 
 - 📫 How to reach me : **<a href="https://www.linkedin.com/in/khadkashankar/">Linkedln</a>**
 
